@@ -12,6 +12,8 @@
 
 ## Speakers
 
+
+
 ## Talk formats
 
 TBD
@@ -19,6 +21,14 @@ TBD
 ## Topics
 
 ## Guidelines
+
+## Resources
+
+The [Public Speaking](https://github.com/vmbrasseur/Public_Speaking) repository has collected many useful resources to help you polish your proposals and talks.
+
+### Office Hours
+
+*Schedule and contact info go here*
 
 ## Submitting
 
