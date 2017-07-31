@@ -22,7 +22,7 @@ North Bay Python is dedicated to featuring a diverse and inclusive speaker lineu
 
 All speakers will be expected to have read and adhere to the conference [Code of Conduct](linky here). In particular for speakers: slide contents and spoken material should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate, and neither are language or imagery that denigrate or demean people based on race, gender, religion, sexual orientation, physical appearance, disability, or body size.
 
-We will make every effort to provide accommodations for speakers with differing abilities — all we ask is that you let us know so we can prepare accordingly.
+We will make every effort to provide accommodations for speakers and attendees of all abilities — all we ask is that you let us know so we can prepare accordingly.
 
 ## Talk formats
 
