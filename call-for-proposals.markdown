@@ -10,11 +10,11 @@ If you've never presented at a conference before and think you might like to try
 
 ## Dates
 
-*August 21, 2017* CFP opens
-*September 29, 2017* CFP closes
-*Week of October 9* Acceptance notifications sent
-*Week of October 16* Speaker confirmations due; program finalized and announced
-*December 2–3, 2017* Conference happens!
++ *August 21, 2017* CFP opens
++ *September 29, 2017* CFP closes
++ *Week of October 9* Acceptance notifications sent
++ *Week of October 16* Speaker confirmations due; program finalized and announced
++ *December 2–3, 2017* Conference happens!
 
 ## Speakers
 
