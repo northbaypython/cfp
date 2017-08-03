@@ -6,7 +6,7 @@ _Portions of this page were drawn from ideas seen on [DjangoCon EU](https://djan
 
 North Bay Python is seeking speakers of all experience levels, especially first-timers, to contribute to our first-ever conference program! If you use Python professionally or as a hobbyist, or are even just excited about Python or programming and open source in general, we'd love to hear from you.
 
-If you've never presented at a conference before and think you might like to try it, we want to hear from you! The program committee is very much interested in encouraging and supporting new speakers, and we will be able to provide detailed feedback and work with you to develop your proposal and talk content so you can give the best talk possible.
+If you've never presented at a conference before and think you might like to try it, we want to hear from you! The program committee is *very* much interested in encouraging and supporting new speakers, and we will be able to provide detailed feedback and work with you to develop your proposal and talk content so you can give the best talk possible.
 
 ## Dates
 
@@ -20,17 +20,19 @@ If you've never presented at a conference before and think you might like to try
 
 North Bay Python is dedicated to featuring a diverse and inclusive speaker lineup.
 
-All speakers will be expected to have read and adhere to the conference [Code of Conduct](linky here). In particular for speakers: slide contents and spoken material should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate, and neither are language or imagery that denigrate or demean people based on race, gender, religion, sexual orientation, physical appearance, disability, or body size.
+**All speakers will be expected to have read and adhere to the conference [Code of Conduct](linky here). In particular for speakers: slide contents and spoken material should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate, and neither are language or imagery that denigrate or demean people based on race, gender, religion, sexual orientation, physical appearance, disability, or body size.**
 
 We will make every effort to provide accommodations for speakers and attendees of all abilities — all we ask is that you let us know so we can prepare accordingly.
 
+North Bay Python is a conference in support of the local programmer community outside of the core San Francisco Bay Area tech scene. We aim to feature a mix of local and non-local speakers to offer a program with broad appeal. **All speakers will receive complimentary registration to the conference, and requests for further financial compensation to assist with travel will be considered on a case-by-case basis independent of the proposal's merits.**
+
 ## Talk formats
 
-Most of the talk slots will be short — approximately 25 to 30 minutes, including Q&A. If your ideas would benefit from a longer slot, please explain in your submission how you would use the additional time.
+**Most of the talk slots will be short** — approximately 25 to 30 minutes, including Q&A. If your ideas would benefit from a longer slot, please explain in your submission how you would use the additional time.
 
 ## Topics
 
-We are a single track conference. This means that your talk needs to hold the attention of beginners to experienced developers alike.
+**We are a single track conference. This means that your talk needs to hold the attention of beginners to experienced developers alike.**
 
 This doesn’t mean that every talk needs to be a beginner’s talk: if you’re talking about advanced concepts, people who are new to Python – or new to your library – should come away excited about the possibilities, and know how to learn the concepts that they need to get there.
 
@@ -66,7 +68,7 @@ We're happy to help with any of the following:
 
 ## Submitting
 
-To help us evaluate proposals and build our program, we would like as much detail as you can provide on your talk. At a minimum this should include: a brief abstract (~500 characters) suitable for inclusion in a schedule page; a detailed prose summary (intended as the content for a talk detail page on the program site); and at least a rough outline of the structure including estimated timings for each section of your talk.
+To help us evaluate proposals and build our program, we would like as much detail as you can provide on your talk. At a minimum this should include: **a brief abstract (~500 characters) suitable for inclusion in a schedule page; a detailed prose summary (intended as the content for a talk detail page on the program site); and at least a rough outline of the structure including estimated timings for each section of your talk.**
 
 If you've given your talk before, links to video or slides would be excellent, or if you've blogged about this topic links to your blog posts would be of use as well.
 
@@ -78,7 +80,7 @@ Please click the invitingly large button below to submit a proposal.
 
 ## Feedback and mentorship
 
-First time speakers are welcomed and encouraged; if you've never done this before but have an idea please contact the program committee to be connected with a mentor and receive guidance structuring your proposal and talk. Above all we want you to be successful and have a good time telling other attendees about your amazing ideas.
+**First time speakers are welcomed and encouraged; if you've never done this before but have an idea please contact the program committee to be connected with a mentor and receive guidance structuring your proposal and talk. Above all we want you to be successful and have a good time telling other attendees about your amazing ideas!**
 
 If you have an idea (or don't!) and want to speak, here's a very rough process of what you should do next:
 
