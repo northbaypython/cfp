@@ -43,6 +43,7 @@ This is a list of topics we think might go well in the North Bay Python program,
 + Deploying, operating, or scaling Python
 + Organization and communication skills for software development
 + What Python can learn from other communities
++ Unexpected places Python gets used (Embedded systems! Health science!)
 + ... and anything else we might not have thought of!
 
 ## Resources
@@ -78,3 +79,11 @@ Please click the invitingly large button below to submit a proposal.
 ## Feedback and mentorship
 
 First time speakers are welcomed and encouraged; if you've never done this before but have an idea please contact the program committee to be connected with a mentor and receive guidance structuring your proposal and talk. Above all we want you to be successful and have a good time telling other attendees about your amazing ideas.
+
+If you have an idea (or don't!) and want to speak, here's a very rough process of what you should do next:
+
++ Brainstorm or [mind map](https://en.wikipedia.org/wiki/Mind_map) to expand upon your ideas or knowledge in search of a general topic
++ Write a paragraph or two, or some bullet points, to outline the core concepts you want to communicate and what people might learn from your talk
++ Get someone you trust to read your notes and tell you what they think they'd learn
++ Attend our office hours to get help building up your submission
++ Practice!
