@@ -10,11 +10,11 @@ If you've never presented at a conference before and think you might like to try
 
 ## Dates
 
-+ *August 21, 2017* CFP opens
-+ *September 29, 2017* CFP closes
-+ *Week of October 9* Acceptance notifications sent
-+ *Week of October 16* Speaker confirmations due; program finalized and announced
-+ *December 2–3, 2017* Conference happens!
++ **August 21, 2017** CFP opens
++ **September 29, 2017** CFP closes
++ **Week of October 9** Acceptance notifications sent
++ **Week of October 16** Speaker confirmations due; program finalized and announced
++ **December 2–3, 2017** Conference happens!
 
 ## Speakers
 
@@ -26,17 +26,23 @@ We will make every effort to provide accommodations for speakers and attendees o
 
 ## Talk formats
 
-TBD
+Most of the talk slots will be short — approximately 25 to 30 minutes, including Q&A. If your ideas would benefit from a longer slot, please explain in your submission how you would use the additional time.
 
 ## Topics
 
+We are a single track conference. This means that your talk needs to hold the attention of beginners to experienced developers alike.
+
+This doesn’t mean that every talk needs to be a beginner’s talk: if you’re talking about advanced concepts, people who are new to Python – or new to your library – should come away excited about the possibilities, and know how to learn the concepts that they need to get there.
+
 This is a list of topics we think might go well in the North Bay Python program, but it is by no means exhaustive. If you have a talk idea on a subject not listed here and you think it fits well with our community and mission, we would love to hear about it!
 
-+ Using Python 
-
-## Guidelines
-
-Proposals should 
++ The Python community
++ Python fundamentals
++ Useful libraries and tools
++ Testing in Python
++ Deploying, operating, or scaling Python
++ Organization and communication skills for software development
++ ... and anything else we might not have thought of!
 
 ## Resources
 
@@ -70,4 +76,4 @@ Please click the invitingly large button below to submit a proposal.
 
 ## Feedback and mentorship
 
-First time speakers are welcomed and encouraged; if you've never done this before but have an idea please contact the program committee to be connected with a mentor and receive guidance structuring your proposal and talk. Above all we want you to be successful and have a good time telling other attendees about your amazing ideas. 
+First time speakers are welcomed and encouraged; if you've never done this before but have an idea please contact the program committee to be connected with a mentor and receive guidance structuring your proposal and talk. Above all we want you to be successful and have a good time telling other attendees about your amazing ideas.
